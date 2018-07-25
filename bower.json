@@ -1,23 +1,45 @@
 {
-  "name": "sample-azure-deployment",
-  "description": "",
-  "main": "index.js",
-  "authors": [
-    "Waldek Mastykarz"
-  ],
-  "license": "ISC",
-  "homepage": "https://github.com/waldekmastykarz/sample-azure-deployment",
-  "moduleType": [],
+  "name": "testing-test",
+  "version": "0.0.0",
+  "homepage": "http://example.com/",
+  "authors": [],
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "lib",
     "test",
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.4",
-    "textAngular":"1.5.16"
+    "angular": "1.4.8",
+    "angular-animate": "1.4.8",
+    "angular-ui-router": "0.2.18",
+    "bootstrap": "3.3.6",
+    "angular-lazy-img": "1.2.2",
+    "angular-local-storage": "0.2.7",
+    "angular-material": "1.0.8",
+    "v-accordion": "1.6.0",
+    "angular-cryptography": "1.0.1",
+    "angular-material-data-table": "0.10.9",
+    "lodash": "4.12.0",
+    "angular-messages": "1.5.5",
+    "moment": "2.13.0",
+    "jinqJs": "jinqjs#1.6.0",
+    "angular-file-upload": "2.3.4",
+    "angular-file-saver": "1.1.1",
+    "cropperjs": "0.7.2",
+    "caman": "4.1.2",
+    "angular-filter": "0.5.9",
+    "textAngular": "1.5.16",
+    "angular-click-outside": "2.9.3",
+    "angular-biginteger": "0.1.2",
+    "xml-to-json": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.4.8"
+  },
+  "resolutions": {
+    "angular": "1.4.8"
   }
 }
